@@ -122,32 +122,5 @@
       "Great work fetching and pulling different upstreams!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1769101373.385683,
-    "completed_at": 1769101378.059331,
-    "comments": [
-      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1769101594.064608,
-    "completed_at": 1769101599.325438,
-    "comments": [
-      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
-    ],
-    "status": "Incomplete"
-  },
-  {
-    "exercise_name": "clone-repo",
-    "started_at": 1769101846.238197,
-    "completed_at": 1769101852.002043,
-    "comments": [
-      "Clone named shapes is missing! Remember to clone your fork using the name 'shapes', not 'gm-shapes'!"
-    ],
-    "status": "Incomplete"
   }
 ]
